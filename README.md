@@ -9,7 +9,7 @@ The Project structure are swtup with 3 distinct modules with each modules focus 
   
   SETUP
   
-  1. git checkout https://github.com/vkbdev83/dctmarchetype 
+  1. git clone https://github.com/vkbdev83/dctmarchetype 
   2. Navigate to the check out folder and execute below 
   
       CMD Prompt > mvn install
