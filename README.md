@@ -19,6 +19,8 @@ The Project structure are swtup with 3 distinct modules with each modules focus 
   -DartifactId=[your project's artifact id]
   -DarchetypeGroupId=a.b.dctm
   -DarchetypeArtifactId=dctmxcp-archetype
+  
+  3. Imnport the Project into your IDE , this should provide the base project structure for your customizations/enhancements
       
       
   
