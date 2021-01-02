@@ -1,4 +1,4 @@
-# dctmarchetype
+# Documentum Maven Archetype
 
 This project is to automate the Base setup of  Project structure, modules and packages for the Documentum xCP using maven archetype . 
 The Project structure are swtup with 3 distinct modules with each modules focus on individual purpose. Project consist of 3 modules
